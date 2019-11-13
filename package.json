@@ -1,6 +1,6 @@
 {
   "name": "@dyssent/blankjs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "BlankJS is a library to render beautiful placeholders for user avatars, icons, and beyond.",
   "keywords": [],
   "main": "dist/blankjs.umd.js",
