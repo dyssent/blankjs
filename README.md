@@ -3,7 +3,7 @@
 Beautiful placeholders for your avatars, documents, and other lists.
 No server needed, works offline! Works with React.
 See a live editor and preview:
-[](https://www.blankjs.com)
+[BlankJS Live Editor](https://www.blankjs.com)
 
 ## How to use
 
